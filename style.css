@@ -1,0 +1,191 @@
+.card{
+	background-color: rgba(255, 255, 2555, 0.5);
+	display: flex;
+ align-items: center;
+margin: 220px;
+border-radius: 10px;
+box-shadow: 5px 5px 30px 20px;
+height: 380px;
+width: 350px;
+}
+{
+	border-radius: 10px;
+}
+.cardd{
+	background-color: rgba(255, 255, 2555, 0.5);
+	display: flex;
+text-align: center;
+margin:100px;
+margin-left: 450px;
+
+border-radius: 10px;
+box-shadow: 5px 5px 30px 20px;
+height: 460px;
+width: 450px;
+}
+{
+	border-radius: 10px;
+}
+
+
+.cardf{
+    background-color: rgba(255, 255, 2555, 0.5);
+    display: grid;
+ align-items: center;
+margin-top: 150px;
+border-radius: 10px;
+box-shadow: 5px 5px 30px 20px;
+height: 320px;
+width: 400px;
+}
+{
+    border-radius: 10px;
+}
+
+
+
+.cardp{
+    background-color: rgba(255, 255, 2555, 0.5);
+    display: grid;
+text-align: center;
+margin-left: 450px;
+margin-top: 100px;
+border-radius: 10px;
+box-shadow: 5px 5px 30px 20px;
+height: 250px;
+width: 300px;
+}
+{
+    border-radius: 10px;
+}
+
+
+.grid{
+
+    display: flex;
+    
+    grid-template-columns: repeat(auto-fit,minmax(100px,3fr));
+    background-color: rgba(255, 255, 2555, 0.5);
+    box-shadow: 5px 5px 30px 20px;
+height: 450px;
+width: 450px;
+}
+
+.hover:hover {
+  background: rgba(0.8,0.8,0.8,0.8);
+  transform: scale(0.6, 0.6);
+  border: 2px #eee solid;
+}
+title{
+
+    color: white;
+}
+input[type="text"]:focus{
+outline: none;
+box-shadow: 0px 0px 5px #61C5FA;
+border:1px solid #5AB0DB;
+}
+
+input[type="text"]:hover{
+border: 1px solid #999;
+border-radius: 5px;
+}
+
+input[type="text"]:focus:hover{
+outline: none;
+box-shadow: 0px 0px 5px #61C5FA;
+border:1px solid #5AB0DB;
+border-radius:0;
+
+}   
+input[type="tel"]:focus{
+outline: none;
+box-shadow: 0px 0px 5px #61C5FA;
+border:1px solid #5AB0DB;
+}
+
+input[type="tel"]:hover{
+border: 1px solid #999;
+border-radius: 5px;
+}
+
+input[type="tel"]:focus:hover{
+outline: none;
+box-shadow: 0px 0px 5px #61C5FA;
+border:1px solid #5AB0DB;
+border-radius:0;
+
+}  
+input[type="email"]:focus{
+outline: none;
+box-shadow: 0px 0px 5px #61C5FA;
+border:1px solid #5AB0DB;
+}
+
+input[type="email"]:hover{
+border: 1px solid #999;
+border-radius: 5px;
+}
+
+input[type="email"]:focus:hover{
+outline: none;
+box-shadow: 0px 0px 5px #61C5FA;
+border:1px solid #5AB0DB;
+border-radius:0;
+
+}  
+input[type="password"]:focus{
+outline: none;
+box-shadow: 0px 0px 5px #61C5FA;
+border:1px solid #5AB0DB;
+}
+
+input[type="password"]:hover{
+border: 1px solid #999;
+border-radius: 5px;
+}
+
+input[type="password"]:focus:hover{
+outline: none;
+box-shadow: 0px 0px 5px #61C5FA;
+border:1px solid #5AB0DB;
+border-radius:0;
+
+}  
+input[type="submit"]:focus{
+outline: none;
+box-shadow: 0px 0px 5px #61C5FA;
+border:1px solid #5AB0DB;
+}
+
+input[type="submit"]:hover{
+border: 1px solid #999;
+border-radius: 5px;
+}
+
+input[type="submit"]:focus:hover{
+outline: none;
+box-shadow: 0px 0px 5px #61C5FA;
+border:1px solid #5AB0DB;
+border-radius:0;
+
+} 
+
+
+
+
+.cardc{
+    background-color: rgba(255, 255, 2555, 0.5);
+    display: grid;
+
+text-align: center;
+    margin-top: 100px;
+
+border-radius: 10px;
+box-shadow: 5px 5px 30px 20px;
+height: 400px;
+width: 350px;
+}
+{
+    border-radius: 10px;
+}
